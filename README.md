@@ -24,4 +24,11 @@
 [Full-size](https://drive.google.com/open?id=1bYNOXDUC84muncjtFY6visatyyICBTDE)
 
 ## Citation
-Coming soon
+```
+@article{viazovetskyi2020stylegan2,
+ title={StyleGAN2 Distillation for Feed-forward Image Manipulation},
+ author={Yuri Viazovetskyi and Vladimir Ivashkin and Evgeny Kashin},
+ journal={arXiv preprint arXiv:2003.03581},
+ year={2020}
+}
+```
