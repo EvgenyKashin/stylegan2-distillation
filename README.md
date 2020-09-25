@@ -15,7 +15,7 @@
 
 ## Additional material
 - [**Uncurated generated examples**](https://drive.google.com/open?id=1RwMUjvYVz-1TGHjrhUn8512HsGWBSmEk)
-- **synthetic dataset for gender swap:** coming soon
+- [**Synthetic dataset for gender swap**](https://www.dropbox.com/sh/pw6jn9sghwasylt/AAADSwiYFvF9T_4_iovvmQNYa)
 ## Results
 ### Gender swap
 ![Gender swap](./imgs/gender.jpg)<br>
