@@ -5,8 +5,11 @@ import torch
 from torch.autograd import Variable
 from collections import OrderedDict
 from subprocess import call
-import fractions
-def lcm(a,b): return abs(a * b)/fractions.gcd(a,b) if a and b else 0
+try:
+    from fractions import gcd
+except ImportError:
+    from math import gcd
+def lcm(a,b): return abs(a * b)/gcd(a,b) if a and b else 0
 
 from options.train_options import TrainOptions
 from data.data_loader import CreateDataLoader
