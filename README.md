@@ -89,9 +89,6 @@ For style mixing you need to generate mixing examples and create a third folder
  two different people, who have to mix, and in folder B the result. For the 
  learning script, you only need to add `--input_nc 6` parameter.
 
-## Pretrained networks
-To Be Announced Later
-
 ## License
 The source code, pretrained models, and dataset will be available under
  [Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0) license by Yandex LLC. You can **use, copy, tranform and build upon** the
