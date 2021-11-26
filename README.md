@@ -96,10 +96,12 @@ The source code, pretrained models, and dataset will be available under
 
 ## Citation
 ```
-@article{viazovetskyi2020stylegan2,
- title={StyleGAN2 Distillation for Feed-forward Image Manipulation},
- author={Yuri Viazovetskyi and Vladimir Ivashkin and Evgeny Kashin},
- journal={arXiv preprint arXiv:2003.03581},
- year={2020}
+@inproceedings{DBLP:conf/eccv/ViazovetskyiIK20,
+  author    = {Yuri Viazovetskyi and
+               Vladimir Ivashkin and
+               Evgeny Kashin},
+  title     = {StyleGAN2 Distillation for Feed-Forward Image Manipulation},
+  booktitle = {ECCV},
+  year      = {2020}
 }
 ```
