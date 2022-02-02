@@ -61,7 +61,7 @@ python run_generator.py generate-images-custom --network=gdrive:networks/stylega
  --direction_path ../stylegan2directions/smile.npy --coeff 1.5
 ```
 - Our filtered gender 
-[dataset](https://www.dropbox.com/sh/pw6jn9sghwasylt/AAADSwiYFvF9T_4_iovvmQNYa) 
+[dataset](https://drive.google.com/file/d/1gBgiWYPgm_NRrwWk8bMKdiFQ7FXTFi1s/view?usp=sharing) 
 as an example
 - Use `Dataset_preprocessing.ipynb` to transform data in pix2pixHD format
  TODO: make a script
